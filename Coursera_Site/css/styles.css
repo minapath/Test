@@ -13,10 +13,11 @@ body {
 }
 
 #logo-img {
-  background: url('https://via.placeholder.com//240x240/09f/fff.png?text=Minas+Cafe%20#How_To_Use_Our_Placeholders') no-repeat;
-  width: 240px;
+  background: url(../Images/logo_image.jpg) no-repeat;
   height: 240px;
+  width: 240px;
   margin: 10px 15px 10px 0;
+
 }
 
 img.resize{
@@ -184,7 +185,7 @@ background-position: center;
 @media (min-width: 992px) and (max-width: 1199px) {
   /* Header */
   #logo-img {
-    background: url('../images/logo_image_medium.jpg') no-repeat;
+    background: url('../Images/logo_image_medium.jpg') no-repeat;
     width: 150px;
     height: 150px;
     margin: 5px 5px 5px 0;
